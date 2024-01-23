@@ -7,3 +7,5 @@ Algorithms: Logistic Regression, K-Nearest Neighbors, Decision Tree
 Best model: Decision Tree. 
 
 Model Accuracy: 97.78
+
+Dataset taken from kaggle.com.
