@@ -41,7 +41,7 @@ The dataset used in this analysis is the **Iris Dataset**, which contains data a
 - **Species**: The target variable representing the flower species.
 
 ### Dataset Source:
-The dataset is publicly available on [Kaggle].
+The dataset is publicly available on [Kaggle](https://www.kaggle.com/).
 
 ## Steps Involved in the Analysis
 
@@ -86,7 +86,7 @@ This will:
 
 ## Results
 - Logistic Regression Accuracy: 95.56%
-- K-Nearest Neighbors Accuracy: 97.78%
+- K-Nearest Neighbors Accuracy: 97.77%
 - Decision Tree Accuracy: 97.78%
 
 The **Decision Tree** classifier achieved the highest accuracy and was selected as the best model for the task.
